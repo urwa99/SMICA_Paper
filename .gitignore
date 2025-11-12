@@ -4,3 +4,17 @@ scripts/__pycache__/mask_maps.cpython-310.pyc
 scripts/__pycache__/compute_cl.cpython-310.pyc
 scripts/__pycache__/compute_covariance.cpython-310.pyc
 scripts/__pycache__/mask_maps.cpython-310.pyc
+Notebooks_1/cal_hi_cov_mK.npy
+Notebooks_1/cal_hi_cov.npy
+Notebooks_1/HI_map_cal.npy
+results/dec_fgds.npy
+results/dec_hi.npy
+results/dec_noise.npy
+results/dec_sky.npy
+results/rotated_fgds.npy
+results/rotated_hi.npy
+results/rotated_noise.npy
+results/rotated_sky.npy
+scripts/__pycache__/compute_cl.cpython-310.pyc
+scripts/__pycache__/compute_covariance.cpython-310.pyc
+scripts/__pycache__/mask_maps.cpython-310.pyc
