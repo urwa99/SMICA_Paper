@@ -38,7 +38,7 @@ def compute_cl(almmaps:np.ndarray, l_max: int, n_freq: int)-> tuple[np.ndarray, 
             index[m] = hp.Alm.getidx(l_max, l, m)  # Get Alm index
         
         almp = almmaps[:, index]  # Extract relevant alm values
-        print(f"Computing power spectra {l}")
+        # print(f"Computing power spectra {l}")
         # Compute C_l
         Cl[l, :, :] = np.real(np.outer(almp[:, 0], almp[:, 0]))
         
