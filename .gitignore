@@ -35,3 +35,13 @@ data/rotated_sky.npy
 data/smoothed_ff_maps.npy
 data/smoothed_hi_maps.npy
 data/smoothed_sync_maps.npy
+scripts/__pycache__/compute_cl.cpython-310.pyc
+scripts/__pycache__/compute_cl.cpython-313.pyc
+scripts/__pycache__/compute_covariance.cpython-313.pyc
+scripts/__pycache__/compute_decoupled_cl.cpython-313.pyc
+scripts/__pycache__/compute_master.cpython-313.pyc
+scripts/__pycache__/mask_maps.cpython-310.pyc
+scripts/__pycache__/mask_maps.cpython-313.pyc
+scripts/__pycache__/patch_mask.cpython-310.pyc
+scripts/__pycache__/patch_mask.cpython-313.pyc
+tex.ipynb
